@@ -1,5 +1,5 @@
 {
-  "name": "morris.js",
+  "name": "morris-data",
   "version": "0.5.1",
   "homepage": "http://morrisjs.github.com/morris.js",
   "license": "BSD-2-Clause",
@@ -8,6 +8,10 @@
     "name": "Olly Smith",
     "email": "olly@oesmith.co.uk"
   },
+  "contributors": [{
+    "name": "Franz Noel Tanglao",
+    "email": "franz@asteraiinteractive.com"
+  }],
   "repository": {
     "type": "git",
     "url": "git://github.com/morrisjs/morris.js.git"
